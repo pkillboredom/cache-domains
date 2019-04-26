@@ -16,6 +16,15 @@
 			"domain_files": ["blizzard.txt"]
 		},
 		{
+			"name": "chocolatey",
+			"description": "Chocolatey Packages",
+			"domain_files": ["chocolatey.txt"]
+		},{
+			"name": "ctrlv",
+			"description": "ctrlv",
+			"domain_files": ["ctrlv.txt"]
+		},
+		{
 			"name": "daybreak",
 			"description": "Daybreak games CDN",
 			"domain_files": ["daybreak.txt"]
