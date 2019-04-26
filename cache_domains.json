@@ -18,10 +18,13 @@
 		{
 			"name": "chocolatey",
 			"description": "Chocolatey Packages",
+			"mixed_content": true,
 			"domain_files": ["chocolatey.txt"]
-		},{
+		},
+		{
 			"name": "ctrlv",
 			"description": "ctrlv",
+			"mixed_content": true,
 			"domain_files": ["ctrlv.txt"]
 		},
 		{
@@ -56,11 +59,11 @@
 			"mixed_content": true,
 			"domain_files": ["origin.txt"]
 		},
-                {
-                        "name": "renegadex",
-                        "description": "CDN for Renegade X",
-                        "domain_files": ["renegadex.txt"]
-                },
+        {
+            "name": "renegadex",
+            "description": "CDN for Renegade X",
+            "domain_files": ["renegadex.txt"]
+        },
 		{
 			"name": "riot",
 			"description": "CDN for riot games",
