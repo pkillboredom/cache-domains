@@ -1,1 +1,2 @@
 chocolatey.org
+*.chocolatey.org
